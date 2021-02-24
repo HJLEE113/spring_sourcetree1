@@ -11,14 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-<<<<<<< HEAD
-/**
- * Handles requests for the application home page.
- */
-=======
-//#3
-//#2
->>>>>>> parent of c516738 (Revert "#3")
+
 @Controller
 public class HomeController {
 	
